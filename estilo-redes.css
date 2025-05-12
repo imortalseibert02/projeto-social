@@ -1,0 +1,24 @@
+@charset "UTF-8";
+ * {
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+
+        img {
+            width: 94vw;
+        }
+
+        a {
+            text-align: center;
+            text-decoration: none;
+            display: block;
+            padding: 10px;
+            background-color: rgb(150, 0, 0);
+            color: white;
+        }
+
+        a:hover{
+            background-color: red;
+        }
